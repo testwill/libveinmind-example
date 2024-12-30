@@ -138,6 +138,4 @@ func transferImagePath(diffId, parentChanId string) (path, chanId string, err er
 			return
 		}
 	}
-
-	return
 }
